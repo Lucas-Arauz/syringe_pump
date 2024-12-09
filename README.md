@@ -1,2 +1,5 @@
 # Syringe pump
-Desarrollo de bomba de jeringa
+
+## Introducción
+Desarrollo de una bomba de jeringa que será implementada en un sistema de electrospray.
+
