@@ -1,2 +1,2 @@
-# syringe_pump
+# Syringe pump
 Desarrollo de bomba de jeringa
